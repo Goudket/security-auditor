@@ -1,3 +1,4 @@
 node_modules/
 .env
 report_*.md
+findings_*.json
